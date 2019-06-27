@@ -14,5 +14,5 @@ If you have any questions, please contact us at Laura.Saba@cuanschutz.edu
 
 Link to [Registration](http://bit.ly/OSGA_2019)
 
-Link to [Agenda]()
+Link to [Agenda](https://github.com/OSGA-OPAR/SuRGe_2019/blob/master/OSGA%20Summer%202019%20Workshop%20Agenda_TENTATIVE.docx)
 
