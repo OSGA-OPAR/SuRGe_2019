@@ -2,17 +2,18 @@
 <p style="text-align: center; font-size:1em">August 2nd and 3rd<br>Skaggs School of Pharmacy and Pharmaceutical Sciences<br>Unversity of Colorado Anschutz Medical Campus<br>12850 E. Montview Blvd.<br>Aurora, CO 80045</p>  
 
 ### Friday, August 2nd 
+
 Time | Topic | Presenter
 -----|-------|----------
 8:30 am | Introduction to quantitative genetics | Rob Williams
 9:00 am | Introduction to rat genomics and rat populations | Laura Saba
 9:30 am | Introduction to dry lab notebooks | Saunak Sen
 10:00 am | BREAK – Coffee/pastries provided |
-	| ***Identifying a genomic region*** |
+ | ***Identifying a genomic region*** |
 10:15 am | Rat Genome Database (literature based)	 | Jennifer Smith, RGD
 11:15 am | GN2 (dynamic mapping including GEMMA) | Saunak Sen
 12:00 pm | LUNCH |	
-	| ***Interrogating a genomic region*** |
+ | ***Interrogating a genomic region*** |
 1:00 pm | RGD | 	Jennifer Smith, RGD
 2:00 pm | GeneNetwork | Rob Williams
 3:00 pm | BREAK	|
@@ -23,9 +24,10 @@ Time | Topic | Presenter
 6:30 pm | Group Dinner	|
 
 ### Saturday, August 3rd 
+
 Time | Topic | Presenter
 -----|-------|----------
-	| ***Examining your favorite gene(s)*** |
+ | ***Examining your favorite gene(s)*** |
 8:30 am | RGD | 	Jennifer Smith, RGD
 9:30 am | PhenoGen | Laura Saba
 10:30 am | BREAK – Coffee/pastries provided	|
