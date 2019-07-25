@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-size:2em">Summer Rat Genetics and Genomics (SuRGe) Workshop 2019</h1>  
 <p style="text-align: center; font-size:1em">August 2nd and 3rd<br>Skaggs School of Pharmacy and Pharmaceutical Sciences<br>Unversity of Colorado Anschutz Medical Campus<br>12850 E. Montview Blvd.<br>Aurora, CO 80045</p>  
 
-###Friday, August 2nd 
+### Friday, August 2nd 
 Time | Topic | Presenter
 -----|-------|----------
 8:30 am | Introduction to quantitative genetics | Rob Williams
@@ -22,7 +22,7 @@ Time | Topic | Presenter
 5:30 pm  | Return to hotel	
 6:30 pm | Group Dinner	
 
-###Saturday, August 3rd 
+### Saturday, August 3rd 
 Time | Topic | Presenter
 -----|-------|----------
 	| ***Examining your favorite gene(s)*** |
