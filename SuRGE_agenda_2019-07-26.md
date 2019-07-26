@@ -1,7 +1,7 @@
-<h1 style="text-align: center; font-size:2em">Summer Rat Genetics and Genomics (SuRGe) Workshop 2019</h1>  
-<p style="text-align: center; font-size:1em">August 2nd and 3rd<br>Skaggs School of Pharmacy and Pharmaceutical Sciences<br>Unversity of Colorado Anschutz Medical Campus<br>12850 E. Montview Blvd.<br>Aurora, CO 80045</p>  
+<h1 style="text-align: center; font-size:1.5em">Summer Rat Genetics and Genomics (SuRGe) Workshop 2019</h1>  
+<p style="text-align: center; font-size:1em">August 2nd and 3rd<br>Skaggs School of Pharmacy and Pharmaceutical Sciences<br>Unversity of Colorado Anschutz Medical Campus<br>12850 E. Montview Blvd., Aurora, CO 80045</p>  
 
-### Friday, August 2nd 
+**Friday, August 2nd** 
 
 Time | Topic | Presenter
 -----|-------|----------
@@ -17,13 +17,13 @@ Time | Topic | Presenter
 1:00 pm | RGD | 	Jennifer Smith, RGD
 2:00 pm | GeneNetwork | Rob Williams
 3:00 pm | BREAK	|
-3:15 pm | PhenoGen (genome browser/eQTL) | Laura Saba
+3:15 pm | PhenoGen (genome browser/eQTL) | Spencer Mahaffey
 4:00 pm | GeneWeaver | TBD
 5:00 pm | Human GWAS (GWAS Atlas, FUMA) | Rob Williams
 5:30 pm  | Return to hotel	|
 6:30 pm | Group Dinner	|
 
-### Saturday, August 3rd 
+**Saturday, August 3rd**
 
 Time | Topic | Presenter
 -----|-------|----------
