@@ -14,5 +14,5 @@ If you have any questions, please contact us at Laura.Saba@cuanschutz.edu
 
 Link to [Registration](http://bit.ly/OSGA_2019)
 
-Link to [Agenda](https://github.com/OSGA-OPAR/SuRGe_2019/blob/master/SuRGe_agenda_FINAL.pdf)
+Link to [Agenda](https://github.com/OSGA-OPAR/SuRGe_2019/blob/master/SuRGE_agenda_FINAL.pdf)
 
